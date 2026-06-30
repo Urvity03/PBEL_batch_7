@@ -1,21 +1,22 @@
-# 📚 PBEL Learning Repository
+# 📚 IBM PBEL Internship Learning Repository
 
-Welcome to my **Project Based Experiential Learning (PBEL)** repository.
+Welcome to my **IBM Project-Based Experiential Learning (PBEL) Internship** learning repository.
 
-This repository serves as a collection of my daily learning, practice exercises, coding assignments, and notebooks completed during the PBEL program. It is intended to document my learning journey and track my progress as I explore Python, Data Science, and Machine Learning concepts.
+This repository documents my learning journey throughout the IBM PBEL Internship. It contains daily practice, coding exercises, assignments, and Jupyter notebooks completed during the program as I build my knowledge in Python, Data Science, and Machine Learning.
 
 ## 🎯 Purpose
 
-The purpose of this repository is to:
+The primary goals of this repository are to:
 
-* Document my day-to-day learning.
-* Practice Python programming through hands-on exercises.
-* Build a strong foundation in Data Science and Machine Learning.
-* Track my progress throughout the PBEL program.
+* Document my day-to-day learning during the IBM PBEL Internship.
+* Strengthen my Python programming skills through hands-on practice.
+* Build a solid foundation in Data Science and Machine Learning.
+* Maintain a structured record of assignments, notebooks, and exercises.
+* Track my progress and continuous learning throughout the internship.
 
-## 📖 What You'll Find
+## 📖 Topics Covered
 
-The repository contains learning materials such as:
+This repository includes learning materials and practice on topics such as:
 
 * Python Basics
 * Variables & Data Types
@@ -25,11 +26,12 @@ The repository contains learning materials such as:
 * Functions
 * Object-Oriented Programming (OOP)
 * NumPy
+* Pandas
 * Practice Exercises
 * Jupyter Notebooks
 * Assignments
 
-As the PBEL program continues, more topics and practice files will be added.
+More topics and projects will be added as I progress through the internship.
 
 ## 🛠️ Tools & Technologies
 
@@ -40,7 +42,7 @@ As the PBEL program continues, more topics and practice files will be added.
 * Git & GitHub
 * Visual Studio Code
 
-## 📌 Repository Structure
+## 📁 Repository Structure
 
 ```text
 PBEL_batch_7/
@@ -56,6 +58,8 @@ PBEL_batch_7/
 
 ## 🌱 Learning Journey
 
-This repository is continuously updated as I progress through the PBEL program. It reflects my growth, practice, and understanding of new concepts over time.
+This repository is continuously updated as I progress through the IBM PBEL Internship. It reflects my practical learning, coding practice, assignments, and growing understanding of Python, Data Science, and Machine Learning.
 
-Thank you for visiting my repository!
+If you're exploring my GitHub profile, feel free to browse the notebooks and exercises. Feedback and suggestions are always welcome!
+
+⭐ Thank you for visiting this repository!
